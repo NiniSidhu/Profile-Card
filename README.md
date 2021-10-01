@@ -15,5 +15,4 @@ Profile-Card Challenge. The aim for this project was to test basic HTML and CSS 
 
 ### Deployed Link
 
-Coming Soon 
-
+https://ninisidhu.github.io/Profile-Card/
